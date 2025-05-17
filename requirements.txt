@@ -1,0 +1,5 @@
+numpy==1.26.2
+matplotlib==3.8.2
+control==0.9.4
+cvxpy==1.4.2
+pandas==2.1.4
